@@ -34,4 +34,4 @@ PRTP is a lightweight Paper random teleport plugin built for survival servers th
 gradle build
 ```
 
-The JAR is written to `build/libs/PRTP-1.0.0.jar`.
+
